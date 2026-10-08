@@ -1,0 +1,42 @@
+#Task 1
+'''1. #And
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a&b)'''
+
+'''2.#or
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a|b)'''
+
+'''3. # not
+a=int(input("enter the number"))
+print(~a)'''
+
+"""4. # Xor
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a^b)"""
+
+"""5. #5 person average
+
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+c=int(input("enter the number"))
+d=int(input("enter the number"))
+e=int(input("enter the number"))
+print(a+b+c+d+e/5)"""
+
+"""a=int(input("enter the number"))
+b=a&1
+if (b==0):
+    print("The Nummber is even")
+
+else:
+    print("The Number is odd")"""
+
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+
+
+
