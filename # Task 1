@@ -1,0 +1,74 @@
+# Task 1
+# and Operator
+"""a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a&b)"""
+
+"""a=1
+b=2
+print(a&b)"""
+
+# Or Operator
+"""a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a|b)"""
+
+"""a=1
+b=2
+print(a|b)"""
+
+# Xor Operator
+"""a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(a^b)"""
+
+"""a=5
+b=2
+print(a^b)"""
+
+# Not Operator
+"""a=int(input("enter the number"))
+print(~a)"""
+
+# Input Bill add GST give total amount
+
+"""a=int(input("Enter the Bill Amount"))
+b=int(input("Enter the GST Percentage"))
+c=a*b/100
+d=a+c
+print("Bill Amount", a)
+print("Gst Amount", c)
+print("Total Amount", d)"""
+
+#Find average of the 5 person
+"""a=int(input("Enter the a person Weight"))
+b=int(input("Enter the b person Weight"))
+c=int(input("Enter the c person Weight"))
+d=int(input("Enter the d person Weight"))
+e=int(input("Enter the e person Weight"))
+f=int(input("Enter the f person Weight"))
+h=a+b+c+d+e/5
+print("The 5 person weight", h)"""
+
+#Check whether the person are even
+"""a=int(input("enter the number"))
+if(a&1)==0:
+    print("The Person are Even")
+else:
+    print("The Person are Odd")"""
+
+# Find the number square or Cube
+"""a=int(input("enter the number"))
+b=a**2
+print("The Square number", b)
+
+a=int(input("enter the number"))
+b=a**3
+print("The Cube number", b)"""
+
+
+#Square the middle digit of a five-digit number
+a=int(input("enter the number"))
+b=(a%1000)//100
+c=6**2
+print("The Square of the 6",c )
